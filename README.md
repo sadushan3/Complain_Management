@@ -30,11 +30,10 @@ The Complaint Management System is a feature-rich web application designed to st
 ---
 
 ## Technologies Used
-- **Frontend**: React.js or a similar framework for an interactive user interface.
-- **Backend**: Node.js with Express.js (or any other backend framework).
-- **Database**: MongoDB or MySQL for robust data storage.
-- **Authentication**: JWT or OAuth for secure access control.
-- **Visualization**: Chart.js or Recharts for data analytics.
-- **Deployment**: Docker, CI/CD pipelines for scalability and smooth deployment.
+- **Frontend**: React.js , Tailwind-css
+- **Backend**: Node.js with Express.js 
+- **Database**: MongoDB
+- **Visualization**: Chart.js 
+
 
 
